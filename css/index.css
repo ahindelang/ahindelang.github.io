@@ -46,18 +46,22 @@
 /* The various Texts */
 
 #heroName {
+    font-family:'Yatra One';
     font-size: 2.2rem;
 }
 
 #pronouns {
+    font-family: 'Yatra One';
     font-size: 1.5rem;
 }
 
 #description {
+    font-family: 'Bitter', serif;
     font-size: 1.3rem;
 }
 
 #portfolioTitle {
+    font-family: 'Yatra One';
     margin-left: 8px;
 }
 
