@@ -37,8 +37,8 @@
 /* Profile Image */
 
 #profileImage {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     margin: auto;
     margin-top: calc(25%);
 }
@@ -85,17 +85,17 @@
 /* Cards */
 .card-main-image,
 .card-image {
-    border-top-left-radius: 2px !important;
-    border-top-right-radius: 2px !important;
+    /*border-top-left-radius: 2px !important;
+    border-top-right-radius: 2px !important;*/
 }
 
 .card {
-    border-radius: 2px;
+    /*border-radius: 2px;*/
 }
 
 .card-content {
-    border-bottom-left-radius: 2px !important;
-    border-bottom-right-radius: 2px !important;
+    /*border-bottom-left-radius: 2px !important;
+    border-bottom-right-radius: 2px !important;*/
 }
 
 /* Breakpoint resizing */
