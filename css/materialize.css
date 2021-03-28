@@ -2582,7 +2582,7 @@ a {
           box-shadow: none !important;
 }
 
-.z-depth-1 .btn:hover, .btn-large:hover, .btn-floating:hover {
+.z-depth-1, .btn:hover, .btn-large:hover, .btn-floating:hover {
 
   /*Replacing with a hard-edge box shadow. type a color after the numbers to make it colored instead.*/
   -webkit-box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 1);
