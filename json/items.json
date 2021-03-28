@@ -1,9 +1,9 @@
 [
     {
-        "name": "Project 1",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "The Orchard: A modular centerpiece for libraries",
+        "description": "The Orchard is an eye-catching, nature-inspired centerpiece that acts as a social and informative hub for libraries. Designed for and with urban librarians.",
+        "image": "images/orchard.png",
+        "link": "NOT READY YET"
 	},
     {
         "name": "Project 2",
