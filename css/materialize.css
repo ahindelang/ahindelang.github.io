@@ -2617,17 +2617,15 @@ a {
 }
 
 .hoverable {
-  box-shadow: 10px 10px black;
-  /*-webkit-transition: -webkit-box-shadow .25s;
+  -webkit-transition: -webkit-box-shadow .25s;
   transition: -webkit-box-shadow .25s;
   transition: box-shadow .25s;
-  transition: box-shadow .25s, -webkit-box-shadow .25s;*/
+  transition: box-shadow .25s, -webkit-box-shadow .25s;
 }
 
 .hoverable:hover {
-  box-shadow: 10px 10px black;
-  /*-webkit-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-          box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+  -webkit-box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 1);
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 1);
 }
 
 .divider {
