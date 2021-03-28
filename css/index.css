@@ -142,7 +142,12 @@
     color: white;
     background-color: black;
 }
+
 /* Colors */
+
+.simple-linear {
+    background-color: linear-gradient(70deg, blue, pink);
+  }
 
 .primary-light {
     color: #90CAF9;
@@ -191,3 +196,4 @@
 .secondary-dark-b {
     background-color: #FFA000;
 }
+
