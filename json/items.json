@@ -1,21 +1,21 @@
 [
     {
         "name": "The Orchard",
-        "description": "The Orchard is one-stop hub for information, events, and social gathering at libraries.",
+        "description": "The Orchard is one-stop hub for information, events, and social gathering at libraries. Made with Duncan Mazza, Michael Remley, Jamie Santiago, and Bennett Taylor.",
         "image": "images/orchard.png",
         "link": "NOT READY YET"
 	},
     {
-        "name": "Project 2",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "BOOMCRASH Music Glove",
+        "description": "An interactive glove powered by Arduino and Max/MSP that creates reactive sound based off of sensor input and gesture. Made with Reid Bowen, Katie Foster, Shirin Kuppusamy, and Becca Suchower.",
+        "image": "images/POE.png",
+        "link": "http://poe.olin.edu/2019/boomcrash/"
 	},
     {
-        "name": "Project 3",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Linda's Oxygen Bag",
+        "description": "A handmade, bespoke bag for Linda's busy life. Made with Emma Freedman, Hadleigh Nunes, and our older adult co-creator and stakeholder Linda.",
+        "image": "images/e4h.png",
+        "link": "https://courses.olin.edu/e4h/stories/Team%20Linda:%20Their%20Full%20Journey"
 	},
     {
         "name": "Project 4",
