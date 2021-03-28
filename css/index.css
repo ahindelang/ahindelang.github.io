@@ -28,7 +28,6 @@
     color: #212121;
     /*border-radius: 3px;*/
     padding: 5px 10px 5px 10px;
-    border: 2px solid black;
 }
 
 .links:hover {
@@ -136,14 +135,10 @@
 }
 
 #contactButton {
-    font-weight:400px;
-    margin: 0 20px 0 20px;
-    display: inline-block;
-    font-size: 20px;
-    color: #212121;
-    /*border-radius: 3px;*/
-    padding: 5px 10px 5px 10px;
     border: 2px solid black;
+    font-weight: 600;
+    color: black;
+    margin-top: 15px;
 }
 
 #contactButton p {
