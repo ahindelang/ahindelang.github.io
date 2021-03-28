@@ -2578,8 +2578,12 @@ a {
 }
 
 .z-depth-0, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav {
-  -webkit-box-shadow: none !important;
-          box-shadow: none !important;
+
+  -webkit-box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 1);
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 1);
+
+  /* -webkit-box-shadow: none !important;
+          box-shadow: none !important; */
 }
 
 .z-depth-1 .btn:hover, .btn-large:hover, .btn-floating:hover {
