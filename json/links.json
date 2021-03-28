@@ -1,26 +1,8 @@
 [
     {
-        "name": "Link",
+        "name": "LinkedIn",
         "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "icon": "Linkedin",
+        "url": "https://www.linkedin.com/in/alex-luna-417a94199/"
 	}
 ]
