@@ -47,7 +47,7 @@
 
 #heroName {
     font-family:'Yatra One';
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 #pronouns {
@@ -61,7 +61,6 @@
 }
 
 #portfolioTitle {
-    font-family: 'Yatra One';
     margin-left: 8px;
 }
 
@@ -70,7 +69,7 @@
     margin-top: 0px;
     margin-bottom: -30px;
     font-weight: 500;
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 #firstCategoryText {
