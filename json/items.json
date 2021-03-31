@@ -26,32 +26,43 @@
     {
         "name": "Video Game Soundracks",
         "description": "I have done commissioned and personal work for video game soundtracks. I make experimental electronic music with an emphasis on percussion, rhythm, and texture.",
-        "image": "images/image4.jpg",
+        "image": "images/creatures.png",
         "link": "https://soundcloud.com/indexx/sets/game-music"
 	},
     {
         "name": "Virtual Reality",
         "description": "During my semester at RISD, I learned numerous VR creation tools like Tiltbrush, Masterpiece VR, and Unity. I created multiple explorable interactive worlds and 3D assets. Some of these, including works in progress, are featured on the linked website; A full collection of personal videos will be shared shortly!",
-        "image": "images/image4.jpg",
+        "image": "images/creatures.png",
         "link": "https://sites.google.com/risd.edu/augmented-design-vr-risd-f20"
 	},
     {
         "name": "Max/MSP Generative Music Machine",
         "description": "Using Max/MSP, I created a multi-module program for generating music. The Beat Selector module creates a coherent rhythm in an AAA-B, AAA-C pattern by selecting from 17 beat loops. The Bass Pattern allows for user-drawn, preset, and randomly generated sequences to play. The Mystery Sound keyboard uses an additive synthesizer subpatch (not visible in demo video) and generates random points on 6 oscillator envelopes to create a unique \"mystery sound\".",
-        "image": "images/image4.jpg",
+        "image": "images/creatures.png",
         "link": "https://www.youtube.com/watch?v=gBniclXWglw"
 	},
     {
         "name": "Zines",
         "description": "I am a founding member of Olin's Zine Club with a passion for the accessibility and creativity of self-published works. My most ambitious work is The Trans Sex Zine (18+), an over-30 page collaboration featuring honest discussions of transgender peoples' relationships to sex. I have several other miniature zines that have been posted on my Instagram.These will eventually be migrated to this website due to my loathing of social media and Instagram in particular. I also enjoy more complicated bookbinding, and have taught workshops on softcover and hardcover techniques.",
-        "image": "images/image4.jpg",
+        "image": "images/creatures.png",
         "link": "https://gumroad.com/unrealward"
-	}
-    
-    /*{
+	},    
+    {
         "name": "Character Sculpture",
         "description": "I sculpt miniature character statuettes, primarily in an anime-inspired style. I am experimenting with posability and have successfully sculpted an articulated, posable mermaid doll with an interchangeable lower half.",
-        "image": "images/image4.jpg",
+        "image": "images/creatures.png",
         "link": "NONE RN"
-	}*/
+	},
+    {
+        "name": "Environment Design Art",
+        "description": "I illustrated all characters and environments for my Ludum Dare game, What Would Make Me Feel Alive, in 72 hours. Made in collaboration with Clark Pohl and Eriel Wiston.",
+        "image": "images/creatures.png",
+        "link": "https://crablab.itch.io/what-would-make-me-feel-alive"
+	},
+    {
+        "name": "Calculus with Flat Stanley",
+        "description": "I illustrated and designed a comic to intuitively teach the concept of limits to young (elementary-school and older) students. Co-written with Sam Daitzman.",
+        "image": "images/creatures.png",
+        "link": "https://flatstan.netlify.app/"
+	}
 ]
