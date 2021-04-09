@@ -1,6 +1,6 @@
 [
     {
-        "name": "The Orchard",
+        "name": "The Orchard Centerpiece",
         "description": "The Orchard is one-stop hub for information, events, and social gathering at libraries. Made with Duncan Mazza, Michael Remley, Jamie Santiago, and Bennett Taylor. This page is under construction; the link does not currently lead anywhere.",
         "image": "images/orchard.png",
         "link": "NA"
@@ -24,13 +24,13 @@
         "link": "NA"
 	},
     {
-        "name": "Video Game Soundracks",
+        "name": "Video Game Music",
         "description": "I have done commissioned and personal work for video game soundtracks. I make experimental electronic music with an emphasis on percussion, rhythm, and texture. Visit the link to listen to a Soundcloud playlist of all my game music thus far.",
         "image": "images/gameost.png",
         "link": "https://soundcloud.com/indexx/sets/game-music"
 	},
     {
-        "name": "Virtual Reality",
+        "name": "Virtual Reality Art",
         "description": "During my semester at RISD, I learned numerous VR creation tools like Tiltbrush, Masterpiece VR, and Unity. I created multiple explorable interactive worlds and 3D assets. Visit the link to see my work alongside other students' for the entire semester. Personal videos will be uploaded shortly.",
         "image": "images/vrworlds.png",
         "link": "https://sites.google.com/risd.edu/augmented-design-vr-risd-f20"
