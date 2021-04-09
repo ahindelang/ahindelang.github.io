@@ -1,68 +1,74 @@
 [
     {
         "name": "The Orchard",
-        "description": "The Orchard is one-stop hub for information, events, and social gathering at libraries. Made with Duncan Mazza, Michael Remley, Jamie Santiago, and Bennett Taylor.",
+        "description": "The Orchard is one-stop hub for information, events, and social gathering at libraries. Made with Duncan Mazza, Michael Remley, Jamie Santiago, and Bennett Taylor. This page is under construction; the link does not currently lead anywhere.",
         "image": "images/orchard.png",
-        "link": "NOT READY YET"
+        "link": "NA"
 	},
     {
         "name": "BOOMCRASH Music Glove",
-        "description": "An interactive glove powered by Arduino and Max/MSP that creates reactive sound based off of sensor input and gesture. Made with Reid Bowen, Katie Foster, Shirin Kuppusamy, and Becca Suchower.",
+        "description": "An interactive glove powered by Arduino and Max/MSP that creates reactive sound based off of sensor input and gesture. Made with Reid Bowen, Katie Foster, Shirin Kuppusamy, and Becca Suchower. Visit the link to read more about the process and watch demo videos.",
         "image": "images/POE.png",
         "link": "http://poe.olin.edu/2019/boomcrash/"
 	},
     {
         "name": "Linda's Oxygen Bag",
-        "description": "A handmade, bespoke bag for an older adult's busy life. Made with Emma Freedman, Hadleigh Nunes, and our co-creator and stakeholder Linda.",
+        "description": "A handmade, bespoke bag for an older adult's busy life. Made with Emma Freedman, Hadleigh Nunes, and our co-creator and stakeholder Linda. Visit the link for details on our entire design process.",
         "image": "images/e4h.png",
         "link": "https://courses.olin.edu/e4h/stories/Team%20Linda:%20Their%20Full%20Journey"
 	},
     {
         "name": "Creature Design",
-        "description": "A collection of naturalistic creature and monster designs made over the course of a semester at RISD.",
+        "description": "During my semester at RISD, I designed and illustrated a collection of naturalistic creature and monster designs. This page is under construction; the link does not currently lead anywhere.",
         "image": "images/creatures.png",
-        "link": "NOT READY YET"
+        "link": "NA"
 	},
     {
         "name": "Video Game Soundracks",
-        "description": "I have done commissioned and personal work for video game soundtracks. I make experimental electronic music with an emphasis on percussion, rhythm, and texture.",
+        "description": "I have done commissioned and personal work for video game soundtracks. I make experimental electronic music with an emphasis on percussion, rhythm, and texture. Visit the link to listen to a Soundcloud playlist of all my game music thus far.",
         "image": "images/gameost.png",
         "link": "https://soundcloud.com/indexx/sets/game-music"
 	},
     {
         "name": "Virtual Reality",
-        "description": "During my semester at RISD, I learned numerous VR creation tools like Tiltbrush, Masterpiece VR, and Unity. I created multiple explorable interactive worlds and 3D assets. Some of these, including works in progress, are featured on the linked website; A full collection of personal videos will be shared shortly!",
+        "description": "During my semester at RISD, I learned numerous VR creation tools like Tiltbrush, Masterpiece VR, and Unity. I created multiple explorable interactive worlds and 3D assets. Visit the link to see my work alongside other students' for the entire semester. Personal videos will be uploaded shortly.",
         "image": "images/vrworlds.png",
         "link": "https://sites.google.com/risd.edu/augmented-design-vr-risd-f20"
 	},
     {
         "name": "Max/MSP Generative Music Machine",
-        "description": "Using Max/MSP, I created a multi-module program for generating music. The Beat Selector module creates a coherent rhythm in an AAA-B, AAA-C pattern by selecting from 17 beat loops. The Bass Pattern allows for user-drawn, preset, and randomly generated sequences to play. The Mystery Sound keyboard uses an additive synthesizer subpatch (not visible in demo video) and generates random points on 6 oscillator envelopes to create a unique \"mystery sound\".",
+        "description": "Using Max/MSP, I created a multi-module program for generating music. The Beat Selector module creates a coherent rhythm in an AAA-B, AAA-C pattern by selecting from 17 beat loops. The Bass Pattern allows for user-drawn, preset, and randomly generated sequences to play. The Mystery Sound keyboard uses an additive synthesizer subpatch (not visible in demo video) and generates random points on 6 oscillator envelopes to create a unique \"mystery sound\". Visit the link for a demo video on Youtube.",
         "image": "images/beatgenerator.png",
         "link": "https://www.youtube.com/watch?v=gBniclXWglw"
 	},
     {
         "name": "Zines",
-        "description": "I am a founding member of Olin's Zine Club with a passion for the accessibility and creativity of self-published works. My most ambitious work is The Trans Sex Zine (18+), an over-30 page collaboration featuring honest discussions of transgender peoples' relationships to sex. I have several other miniature zines that have been posted on my Instagram.These will eventually be migrated to this website due to my loathing of social media and Instagram in particular. I also enjoy more complicated bookbinding, and have taught workshops on softcover and hardcover techniques.",
+        "description": "I am a founding member of Olin's Zine Club with a passion for the accessibility and creativity of self-published works. My most ambitious work is The Trans Sex Zine (18+), an over-30 page collaboration featuring honest discussions of transgender peoples' relationships to sex. I also enjoy more complicated bookbinding, and have taught workshops on softcover and hardcover techniques. Visit the link for free downloads to some of my zines.",
         "image": "images/zines.png",
         "link": "https://gumroad.com/unrealward"
 	},    
     {
         "name": "Character Sculpture",
-        "description": "I sculpt miniature character statuettes, primarily in an anime-inspired style. I am experimenting with posability and have successfully sculpted an articulated, posable mermaid doll with an interchangeable lower half.",
+        "description": "I sculpt miniature character statuettes, primarily in an anime-inspired style. I am experimenting with posability and have successfully sculpted an articulated, posable mermaid doll with an interchangeable lower half. This page is under construction; the link does not currently lead anywhere.",
         "image": "images/sculpts.png",
-        "link": "NONE RN"
+        "link": "NA"
 	},
     {
         "name": "Video Game Cartoon Art",
-        "description": "I illustrated all characters and environments for my Ludum Dare game, What Would Make Me Feel Alive, in 72 hours. Made in collaboration with Clark Pohl and Eriel Wiston.",
+        "description": "I illustrated all characters and environments for my Ludum Dare game, What Would Make Me Feel Alive, in 72 hours. Made in collaboration with Clark Pohl and Eriel Wiston. Visit the link to download the game.",
         "image": "images/wwmmfa.png",
         "link": "https://crablab.itch.io/what-would-make-me-feel-alive"
 	},
     {
         "name": "Calculus with Flat Stanley",
-        "description": "I illustrated and designed a comic to intuitively teach the concept of limits to young (elementary-school and older) students. Empty spaces in the panels are meant for interactive graphs. Co-written with Sam Daitzman.",
+        "description": "I illustrated and designed a comic to intuitively teach the concept of limits to young (elementary-school and older) students. Empty spaces in the panels are meant for interactive graphs. Co-written with Sam Daitzman. Visit the link to explore the comic. Please note that certain graph assets are missing from the webpage and need to be replaced, visible by unused space in the comic panels.",
         "image": "images/flatstanley.png",
         "link": "https://flatstan.netlify.app/"
+	},
+    {
+        "name": "Development and History of Climate Models for Non-Scientists",
+        "description": "I created a video presentation to communicate research on the details of climate models, including what is well-established and what requires more work. The goal of this video was to address legitimate concerns and ignorance regarding computer modeling, especially climate modeling, while remaining rooted in the reality of climate change. Visit the link to watch the video.",
+        "image": "images/climate.png",
+        "link": "https://drive.google.com/file/d/1VcGZoLLEu_xTsQVt20d9X6EpDLbyI-2S/view?usp=sharing"
 	}
 ]
